@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769687995611",
+    "project_id": "e-commerce-44284",
+    "storage_bucket": "e-commerce-44284.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769687995611:android:973937c6d5ff27a5b4f8fe",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNLI0N6rQchN5a5UetjZ8WiywKL7MrXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
